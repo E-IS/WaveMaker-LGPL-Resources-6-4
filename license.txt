@@ -1,6 +1,6 @@
 open_source_license.txt
 
-System Dependencies Bundle for VMware WaverMaker 6.4
+System Dependencies Bundle for VMware WaveMaker 6.4
 
 ===========================================================================
 
