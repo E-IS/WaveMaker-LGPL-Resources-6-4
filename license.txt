@@ -1,6 +1,6 @@
 open_source_license.txt
 
-System Dependencies Bundle for VMware WaverMaker 6.5.x
+System Dependencies Bundle for VMware WaverMaker 6.5.1 GA
 
 
 ===========================================================================
@@ -1030,5 +1030,4 @@ years from the date you acquired this Software product. Alternatively,
 the Source Files may accompany the VMware product.
 
 
-[WAVEMAKER65XKR090412]
-
+[WAVEMAKER651GAKV110512]
