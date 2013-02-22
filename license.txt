@@ -1,8 +1,7 @@
-PLEASE NOTE: THIS FILE SUPERSEDES THE FILE EMBEDDED IN THE PRODUCT
+PLEASE NOTE: THIS FILE SUPERSEDES THE FILE EMBEDDED IN THE PRODUCTopen_source_license.txt
 
-open_source_license.txt
+System Dependencies Bundle for VMware WaverMaker 6.5.3 GA
 
-System Dependencies Bundle for VMware WaverMaker 6.5.2 GA
 
 ===========================================================================
 
@@ -29,12 +28,14 @@ associated with each component.
 
 
 
+
 SECTION 1: GNU Lesser General Public License, V2.1
 
    >>> ace.ajax.org-0.1.6
-   >>> hibernate-3.2.4
+   >>> hibernate-3.2.4.sp1
    >>> hibernate-tools-3.2.4
    >>> jtds-1.2.2
+
 
 
 
@@ -91,7 +92,7 @@ the provisions above, a recipient may use your version of this file under
 the terms of any one of the MPL, the GPL or the LGPL.
 
 
->>> hibernate-3.2.4
+>>> hibernate-3.2.4.sp1
 
 This software is distributed under the terms of the FSF Lesser Gnu Public License (see lgpl.txt).
 
@@ -99,14 +100,16 @@ This software is distributed under the terms of the FSF Lesser Gnu Public Licens
 This product includes software developed by the Apache Software 
 Foundation (http://www.apache.org/)
 
-ADDITIONAL LICENSE INFORMATION:
 
+
+ADDITIONAL LICENSE INFORMATION:
 
 >jta.jar 
 >jdbc2_0-stdext.jar
 >jaas.jar
 >connector.jar
-> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\jta.licence.txt
+
+hibernate-3.2.4.sp1.zip\hibernate-3.2\lib\jta.licence.txt
   
 Sun Microsystems, Inc. 
 Binary Code License Agreement
@@ -157,7 +160,9 @@ For inquiries please contact: Sun Microsystems, Inc. 4150 Network Circle, Santa 
 
 
 
-> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\apache.license.txt
+> Apache 1.1 
+
+hibernate-3.2.4.sp1.zip\hibernate-3.2\lib\apache.license.txt
 
 ====================================================================
 
@@ -208,11 +213,16 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGE.
 
 
-> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\apache.license-2.0.txt
+> Apache 2.0
+
+hibernate-3.2.4.sp1.zip\hibernate-3.2\lib\apache.license-2.0.txt
 
 License: Apache: 2.0
 
-> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\antlr-2.7.6.jar 
+
+> Public Domain
+
+hibernate-3.2.4.sp1.zip\hibernate-3.2\lib\antlr.license.txt
 
 SOFTWARE RIGHTS
 $Id: antlr.license.txt 3890 2004-06-03 16:31:32Z steveebersole $
@@ -247,7 +257,9 @@ http://www.jGuru.com
 parrt@jguru.com
 
 
->hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\xml-apis.jar\license\
+> BSD Style
+
+hibernate-3.2.4.sp1.zip\hibernate-3.2\lib\xml-apis.jar
 
 This W3C work (including software, documents, or other related
 items) is being provided by the copyright holders under the
@@ -294,7 +306,9 @@ software and any associated documentation will at all times remain
 with copyright holders.
 
 
-> hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\dom4j-1.6.1.jar\META-INF\
+> BSD
+
+hibernate-3.2.4.sp1.zip\hibernate-3.2\lib\dom4j-1.6.1.jar\META-INF\LICENSE.txt
 
 Copyright 2001-2005 (C) MetaStuff, Ltd. All Rights Reserved.
 
@@ -344,7 +358,6 @@ License : LGPL 2.1
 
 
 >>> jtds-1.2.2
-
 
 Copyright (C) 2004 The jTDS Project
 
@@ -923,4 +936,4 @@ years from the date you acquired this Software product. Alternatively,
 the Source Files may accompany the VMware product.
 
 
-[WAVEMAKER652GASC010413]
+[WAVEMAKER653GAKD021313]
