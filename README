@@ -1,1 +1,18 @@
 This repository exists as a place for WaveMaker studio to download LGPL components it needs to run.  Previously these components were part of WaveMaker studio, but after being acquired, these components were deemed undistributable by the acquiring company.
+
+Usage :
+=======
+
+Install WaveMaker community version 6.6 or 6.7 from http://dev.wavemaker.com/wiki/bin/wmdoc/Releases
+
+On first run, WaveMaker try to download and install third party librairies, but fail to find the files.
+
+Stop the console
+
+Copy 'ace' folder into <InstallationFolder>\studio\app\lib\ace
+
+Copy 'hibernate3.jar', 'hibernate-tools.jar' and 'jtds-1.2.1.jar' into <InstallationFolder>\studio\WEB-INF\lib
+
+Restart the console
+
+It works.
